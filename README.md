@@ -13,9 +13,11 @@
 ## General info
 The purpose of it is to show my skills in frameworks
 
-## Screenshot
+## Screenshot 1
 ![Example screenshot](./WebContent/resources/images/Screenshot_2.png)
+## Screenshot 2
 ![Example screenshot](./WebContent/resources/images/Screenshot_3.png)
+## Screenshot 3
 ![Example screenshot](./WebContent/resources/images/Screenshot_4.png)
 
 ## Technologies
