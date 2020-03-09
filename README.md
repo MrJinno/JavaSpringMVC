@@ -1,15 +1,5 @@
 # JavaSpringMVC
 > Customer Relationship Manager!
-
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-
 ## General info
 The purpose of it is to show my skills in frameworks
 
