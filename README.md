@@ -15,6 +15,8 @@ The purpose of it is to show my skills in frameworks
 
 ## Screenshot
 ![Example screenshot](./WebContent/resources/images/Screenshot_2.png)
+![Example screenshot](./WebContent/resources/images/Screenshot_3.png)
+![Example screenshot](./WebContent/resources/images/Screenshot_4.png)
 
 ## Technologies
 * Spring MVC
