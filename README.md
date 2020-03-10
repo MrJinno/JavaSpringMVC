@@ -1,7 +1,7 @@
 # JavaSpringMVC
 > Customer Relationship Manager!
 ## General info
-The purpose of it is to show my skills in frameworks
+The purpose of it is to show my skills in Spring/Hibernate. Connecting to the local Database is required.
 
 ## Screenshot 1
 ![Example screenshot](./WebContent/resources/images/Screenshot_2.png)
